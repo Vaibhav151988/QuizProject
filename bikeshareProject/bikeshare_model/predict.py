@@ -45,3 +45,5 @@ if __name__ == "__main__":
                'workingday': ['Yes'], 'weathersit': ['Clear'], 'temp': [16], 'atemp': [17.5], 'hum': [30], 'windspeed': [10]}
 
     make_prediction(input_data = data_in)
+    
+    
